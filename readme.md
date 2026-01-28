@@ -1,6 +1,5 @@
 # MultiPDF Chat App
-
-> You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
+This project allows users to upload one or more PDF documents and ask questions using Retrieval-Augmented Generation (RAG) with embeddings and a language model (e.g., OpenAI / HuggingFace).
 
 ## Introduction
 ------------
